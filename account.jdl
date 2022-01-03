@@ -1,4 +1,4 @@
-entity Account {
+entity UserAccount {
 	firstName String,
 	lastName String,
 	email String,
